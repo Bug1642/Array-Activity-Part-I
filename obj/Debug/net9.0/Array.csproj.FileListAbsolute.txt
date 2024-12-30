@@ -12,3 +12,4 @@ C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Array\obj\Debug\net9.0
 C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Array\obj\Debug\net9.0\Array.pdb
 C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
 C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Array\obj\Debug\net9.0\ref\Array.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Array\obj\Debug\net9.0\Array.sourcelink.json
